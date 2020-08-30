@@ -3,6 +3,7 @@ teste
 ## This is a branch of the Repository
 
 - Saved changes are called commits, and commits messages are the comments
+- After your branch is finished you can "pull request" it to be merge
 
 ## Heading 2
 
