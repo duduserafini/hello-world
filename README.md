@@ -2,10 +2,9 @@
 teste
 ## This is a branch of the Repository
 
-- Saved changes are called commits, and commits messages are the comments
+- Saved changes are called commits, and commits messages (active voice) are the comments
 - After your branch is finished you can "pull request" it to be merge
-
-Oieeeeee
+- Special files: README.md, CONTRIBUTING.md, ISSUE_TEMPLATE.md
 
 ## Heading 2
 
